@@ -20,15 +20,33 @@
 
 🔗 [GitHub](https://github.com/ramcleanerpro/RamCLeanerPRO) | [Сайт](https://ramcleanerpro.github.io/ram-cleaner-site/)
 
+### 🔐 **PASSWORD VAULT PRO**
+> Безопасное хранилище паролей
+
+🔒 Шифрование • 📁 Управление паролями • 🔑 Генератор паролей • 🖥️ Windows
+
+🔗 [GitHub](https://github.com/ramcleanerpro/PASSWORD-VAULT-PRO)
+
+### 👁️ **Ultimate Overseer**
+> Мониторинг системы и удалённое управление
+
+📊 Мониторинг в реальном времени • 📈 Статистика • 🛠️ Управление процессами
+
+🔗 [GitHub](https://github.com/ramcleanerpro/UltimateOverseer)
+
 ---
 
 ## 🛠️ ЧТО Я ИСПОЛЬЗУЮ
-- PowerShell • Windows Forms • ADB • Inno Setup • Git • GitHub
+`PowerShell` • `Windows Forms` • `ADB` • `Inno Setup` • `Git` • `GitHub` • `CustomTkinter` • `Python`
 
 ---
 
 ## 📊 СТАТИСТИКА
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramcleanerpro&show_icons=true&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramcleanerpro&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramcleanerpro&layout=compact&theme=radical&hide_border=true" width="49%" />
+</div>
 
 ---
 
