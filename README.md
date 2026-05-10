@@ -59,5 +59,5 @@
 ---
 
 ![Game Booster PRO](https://img.shields.io/badge/Game%20Booster%20PRO-v1.0-blueviolet?style=flat-square)
-![RAM Cleaner PRO](https://img.shields.io/badge/RAM%20Cleaner%20PRO-v9.0-brightgreen?style=flat-square)
+![RAM Cleaner PRO](https://img.shields.io/badge/RAM%20Cleaner%20PRO-v16.0-brightgreen?style=flat-square)
 ![Windows](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
